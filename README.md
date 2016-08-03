@@ -1,8 +1,10 @@
 # Overview: TokuMX+SSL
 
   A dockerfile/docker image for running the community version of TokuMX within  
-  a container, compiled with TLS/SSL enabled. Ubuntu is used for the base  
+  a container, compiled with TLS/SSL enabled (single node). Ubuntu is used for the base  
   image. This is intended for testing purposes only, NOT production use.
+
+  Docker hub repository: [link](https://hub.docker.com/r/druotic/tokumx-ssl/)
 
 # Usage
 
